@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ec006432446a48b695a5726531f2b57, type: 3}
+  m_Name: Audio Data SO
+  m_EditorClassIdentifier: 
+  <BackgroundMusic>k__BackingField: {fileID: 8300000, guid: b0bf241b995d7494698a077c0170d69f, type: 3}
+  <ClickClip>k__BackingField: {fileID: 8300000, guid: e7d99429799e944c09f5e2cc8880269c, type: 3}
+  <FailClip>k__BackingField: {fileID: 8300000, guid: c75a30c44e1c94d8eb6e861dd4e0d387, type: 3}
+  <ButtonAppearClip>k__BackingField: {fileID: 8300000, guid: 15e81239f68c0470b9f781e0c4ce1cbe, type: 3}
+  <AnimalClickClip>k__BackingField: {fileID: 8300000, guid: 45ad1cf1c700e4015b4f3e6db4bf0b2e, type: 3}
+  <OkClickClip>k__BackingField: {fileID: 8300000, guid: d5cb9c4ae08fd481699f2282574ae170, type: 3}
+  <ClearClip>k__BackingField: {fileID: 8300000, guid: 3b0dde31928d44fe28493d774371900e, type: 3}
+  <GameOverClip>k__BackingField: {fileID: 8300000, guid: a76366313d1064938a4b36df840f6ba2, type: 3}
+  <StopClip>k__BackingField: {fileID: 8300000, guid: 8ef2b33afad0e474f8d5b2051ceec227, type: 3}
+  <StartClip>k__BackingField: {fileID: 8300000, guid: ccbd6a9dc37e64c2eac02f5725772efb, type: 3}
+  <NextClip>k__BackingField: {fileID: 8300000, guid: 94f540192732648fc8aacfc090a53390, type: 3}
+  <ClearNextClip>k__BackingField: {fileID: 8300000, guid: 7563b0850ecf84a81a19a8f39390da1c, type: 3}
+  <ShowAnswerClip>k__BackingField: {fileID: 8300000, guid: e549d7e85c6fc4ee78fab00eaa6d12d2, type: 3}
+  <DrawClip>k__BackingField: {fileID: 8300000, guid: 6654c2c1057974e64b440e4f60e5e2ba, type: 3}
+  <TimeCountClip>k__BackingField: {fileID: 8300000, guid: 3bf71d688e38b442b820f775e97d71ec, type: 3}
+  <TimeOverClip>k__BackingField: {fileID: 8300000, guid: 93861639b39a64e4992d0a10b89a85c1, type: 3}
+  <HitClip>k__BackingField: {fileID: 8300000, guid: b63e92340323b4a1ba71603f1a867577, type: 3}
+  <MatchPlayerClip>k__BackingField: {fileID: 8300000, guid: dcf4d644b20a04fccb46d62a8fc0b28a, type: 3}
+  <MatchCompleteClip>k__BackingField: {fileID: 8300000, guid: bfba336dab16c4f79b22cbe2f1ebb208, type: 3}
+  <GetClip>k__BackingField: {fileID: 8300000, guid: 6e516f6c6428c451b9ca9ca7b7a3266a, type: 3}
+  <SuccessClip>k__BackingField: {fileID: 8300000, guid: b31e9dd8f10214c25a05afd5e2b59d88, type: 3}
+  <WrongClip>k__BackingField: {fileID: 8300000, guid: d1f6e72667d694ac1917c223f0f90d89, type: 3}
